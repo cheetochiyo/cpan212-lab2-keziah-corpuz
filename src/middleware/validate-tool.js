@@ -29,7 +29,7 @@ export function validateTool(req, res, next) {
     errors.condition = 'condition must be one of: new, good, worn';
   }
 
-  if (typeof body.available !== 'true' || body.available !== 'false') {
+  if (typeof body.available !== 'boolean') {
     errors.available = 'available must be true or false';
   }
 
