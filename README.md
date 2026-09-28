@@ -1,6 +1,6 @@
 # Tool Library API
 
-<!-- Replace this line with one or two sentences about the project in your own words. -->
+There have been a few instances in other courses where a lab introduced concepts that were never taught in modules. Therefore, I appreciated how this project actually used the material taught.
 
 Live: <!-- your Render address, for example https://cpan212-lab2-jane-doe.onrender.com/api/tools -->
 
@@ -33,5 +33,4 @@ npm run check
 This tries every route and prints which checks pass.
 
 ## AI use
-
-<!-- List each AI tool you used and what you used it for, or write "No AI tools used." -->
+- ChatGPT: used for further hints on why code I wrote was not working
